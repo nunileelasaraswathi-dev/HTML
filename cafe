@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🍵CAFE AURA🍵</title>
+        <style>
+        body{
+            background-color: burlywood;
+            font-family: 'Courier New', Courier, monospace;
+            margin: 14px;
+        }
+        header{
+            text-align: center;
+            background-color: #4b2e1f;
+            color: white;
+            padding: 25px;
+        }
+        
+         nav { background-color: #2f1b12;
+             padding: 15px; 
+             text-align: center;
+              position: sticky;
+               top: 0;
+             }
+             nav a { color: white;
+                 text-decoration: none;
+                  margin: 10px;
+                   font-weight: bold;
+                 }
+                 section { 
+                    background-color:
+                     #fff4df;
+                     margin:  25px auto;
+                       padding: 20px;
+                       max-width: 900px;
+                        border-radius: 15px; 
+                    }
+                    h2 {
+                         color: #5b321f; 
+                        } 
+                        .item {
+                             background-color: white;
+                              padding: 12px; 
+                              margin: 10px 0;
+                               border-radius: 8px; 
+                            }
+                            item strong {
+                                 color: #6b351c; 
+                                }
+                                 img { 
+                                    display: block; 
+                                    margin: 15px auto;
+                                     width: 180px; 
+                                     height: 180px; 
+                                     object-fit: cover;
+                                      border-radius: 12px;
+                                     }
+                                     footer {
+            text-align: center;
+            background-color: #2f1b12;
+            color: white;
+            padding: 25px;
+        }
+
+        mark {
+            background-color: gold;
+        }
+
+    </style>
+</head>
+
+<body>
+    <nav>
+        <a href="#hot drinks">HOT DRINKS</a>
+        
+        <a href="#cool drinks">COLD DRINKS</a>
+        
+        <a href="#quick bites">QUICK BITES</a>
+        
+        <a href="#indian snacks">INDIAN SNACKS</a>
+        
+        <a href="#desserts">DESSERTS</a>
+        
+        <a href="#combo items">COMBO ITEMS</a>
+        
+    </nav>
+    <section id="hot drinks">
+        <b>HOT DRINKS</b>
+        <h2>Tea</h2>
+        Classic tea 25/-
+        <br>
+        Masala tea 30/- 
+        <br>
+        Green tea 35/- 
+        <br>
+        <img src="https://cdn.shopify.com/s/files/1/0888/4849/9001/files/Flavoured_Tea_Vs_Chai.png?v=1780587429" width="100" height="100">
+        <h2>coffee</h2>
+        filter coffee 40/- 
+        <br>
+        cappuccino 70/-
+        <br>
+        cafe latte 70/-
+        <br>
+        hot chocolate 80/-
+        <br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjQoygmTifgO4JM5RTbda-IzyfKbSwWUnY8NVvgXsDg&s=10" width="100" height="100">
+    </section>
+    <section id ="cold drinks">
+
+        <h2>Milk Shakes</h2>
+        chocolate shake 90/- 
+        <br>
+        oreo shake 100/- 
+        <br>
+        vanilla shake 80/- 
+        <br>
+        strawberry shake 90/- 
+        <br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPLUYXyD7RetP88QVKDNbvIAVuUeNhnukGlgyyaYxseX72mjDAn1Ep28gc&s=10"width="100"height="100">
+        <h3>cold drinks</h3>
+        cold coffee 80/- 
+        <br>
+        lemon iced tea 60/- 
+        <br>
+        fresh lime soda 50/- 
+        <br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRx9Ce4cXqudkX1LO7kNdqPK5gKCeCTu0CDBQ7q51P3A&s=10" width="100" height="100">
+    </section>
+        <section id="quick bites">
+            Fresh Fries 60/- 
+            <br>
+            peri-peri fries 75/- 
+            <br>
+            garlic bread 70/- 
+            <br>
+            cheese bread 90/- 
+            <br>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkqjd08At-Ee7W-QNNQtFaW6doIokCTe1gpqktbYyoAw&s=10"width="100" height="100">
+        </section>
+        <section id="indian snacks">
+           samosa 2pcs 30/- 
+           <br>
+           punugulu 40/- 
+           <br>
+           mirchi bajji 30/- 
+           <br>
+           paneer pakoda 70/- 
+           <br>
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdNJq4U8V7abvkegsEiroXGGh8xcwIgEPpJCTUaGUTw&s=10"width="100" height="100">
+        </section>
+        <section id="desserts">
+            chocolate brownie 70/- 
+            <br>
+            brownie+ice cream 110/- 
+            <br>
+            chocolate cake 80/- 
+            <br>
+            red velvet cake 90/- 
+            <br>
+            donut 60/- 
+            <br>
+            waffle 100/- 
+            <br>
+            ice cream 60/- 
+            <br>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiURWYjRirRC9X_lqZcWci2u0ypyVviijyL2CDqbouQ&s=10"width="100" height="100">
+        </section>
+        <section id="combo items">
+            student combo (burger+fries+softdrink) 149/- 
+            <br>
+            coffee combo (cappuccino+garlic bread) 129/- 
+            <br>
+            chai combo (tea+2samosa) 49/- 
+            <br>
+            momo combo (momos+softdrink) 109/- 
+            <br>
+            sweet combo (waffle+colddrink) 169/- 
+            <br>
+            friends combo (2burgers+fries+2drinks) 299/- 
+            <br>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKCwc0wOv2lHyg9SOoo6CEUYNHQskgGDW-U0U2gGGiWw&s=10"width="100" height="100">
+        </section>
+        <footer>
+            <p>THe partners are <mark>Bhavigna,Leela,Pavani</mark></p>
+            <p><strong>THANKS FOR VISITING OUR CAFE AURA</strong></p>
+            <p>contact:9876543210</p>
+        </footer>
+</body>
+</html>
